@@ -1,17 +1,9 @@
-# k1574.xyz
-Hi. I'm k1574. It's my site.
+# Mojosa.Press
 
 ---
 
-## Data
-* [Posts](msg)
-* [Documents](doc)
-* [Images](img)
-* [Sounds](snd)
-* [Videos](vid)
-* [Bookmarks](bm)
+2021.9.30
+## Открытие
 
-## Contacts
-* [VK](https://vk.com/k1574/)
-* [GitHub](https://github.com/k1574/)
-* [Miavivo](https://www.miavivo.net/profilo/k1574/)
+Мы открылись, сучары!
+
